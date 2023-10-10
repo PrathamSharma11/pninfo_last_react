@@ -1,0 +1,274 @@
+.a{
+    background-color: #0000009c;
+}
+
+
+      
+       .mbl-logo{ display: none; }
+       .welcome{padding-top: 20px;
+                font-family: prague;
+                letter-spacing: 3px;  }
+       .p{letter-spacing: 1px;
+          word-spacing: 1px;
+          line-height: 35px;}
+        .btn{color: white;}
+
+        .mm{margin-top: 100px;
+             font-family: prague;}
+        .c{ background-image: url("https://www.firstfiddle.in/assets/images/bannerabout.jpg");}
+        .ex{ text-align: center;
+              padding-top: 20px;
+              letter-spacing: 3px;
+              margin-top: 25px; }
+         .vis{ margin-top: 102px;
+               font-family: prague; } 
+          .visp{line-height: 40px;
+                letter-spacing: 1px;
+                color: white;}
+           .visbg{ background-image: url("https://www.firstfiddle.in/assets/images/outletbanner.png");}
+           .foot{ background-color:#111215;}
+           .footer7{ margin-top: 60px; }
+           .last{ background-color:#000000; }
+           .nav-item {padding: 10px;
+                     color: #fff;
+                     text-decoration: none; 
+                     font-weight: 600;
+                     font-size: 15px;}              
+             
+
+        @media(max-width: 500px) {
+
+        .mbl-logo{ display: block; }
+        .dsk-logo{ display: none;}
+        .a{background-color: #fec926;}
+        .navbar-dark  .navbar-nav  .nav-link{
+            color: black;}
+
+        .img{height: 250px;}
+      }
+
+
+
+
+
+
+     
+     
+     
+     
+     
+      .a{
+		background-color: #0000009c;}
+
+		 .nav-item {padding: 10px;
+                         color: #fff;
+                         text-decoration: none; 
+                         font-weight: 600;
+                         font-size: 15px;}
+
+	      .ro{ font-family: prague;
+               letter-spacing: 3px;
+               text-align: center;
+               padding-top: 20px;}
+            .p{letter-spacing: 1px;
+                word-spacing: 2px;
+                line-height: 25px; text-align: justify;
+                 font-size: 15px;font-family: Montserrat,sans-serif;    
+                 color: #000;}
+
+             .tgc{ margin-top: 80px;
+                   background-image: url("https://www.firstfiddle.in/assets/images/gamebanner.jpg"); }
+              .tgc2{ text-align: center;
+                     margin-top: 102px;
+                     font-family: prague;
+                     color: #eb0a0a;
+                     font-size: 60px; }
+              .tpr{ padding-top: 20px;
+                    text-align: center;
+                    font-family: prague;
+                    letter-spacing: 3px; } 
+               .tpr2{ font-size: 15px;
+                      line-height: 35px;
+                      letter-spacing: 1px;
+                      word-spacing: 2px;
+                      text-align: justify; } 
+                .join{ padding-top: 20px;
+                       text-align: center;
+                       font-family: prague;
+                       letter-spacing: 3px; } 
+                .join2{ letter-spacing: 1px;
+                        word-spacing: 2px;
+                        line-height: 35px;
+                        text-align: justify; }
+
+                 .foot{ background-color:#111215;}
+	           .footer7{ margin-top: 60px; }
+	           .last{ background-color:#000000; }                                         
+ 
+
+
+	      
+	       .mbl-logo{ display: none; }
+	       
+                   
+             @media(max-width: 500px) {
+
+            .mbl-logo{ display: block; }
+            .dsk-logo{ display: none;}
+            .a{background-color: #fec926;}
+            .navbar-dark  .navbar-nav  .nav-link{
+            	color: black;}
+            .img{height: 550px;}
+            .foot{ margin-top: 20px; } }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            .a{
+                background-color: #0000009c;}
+        
+                 .nav-item {padding: 10px;
+                                 color: #fff;
+                                 text-decoration: none; 
+                                 font-weight: 600;
+                                 font-size: 15px;}
+        
+                  .brands{ font-family: 'prague';
+                           font-size: 80px;
+                           text-align: center;
+                           position: relative;
+                           top: 300px;
+                           color: #000000; }
+        
+                   .bd{ background-image: url("https://www.firstfiddle.in/assets/images/brands.jpg"); height: 550px; }
+                   .foot{ background-color:#111215; margin-top: 30px;}
+                       .footer7{ margin-top: 60px; }
+                       .last{ background-color:#000000; }
+        
+        
+        
+                 .mbl-logo{ display: none; }
+                   
+                           
+                     @media(max-width: 500px) {
+        
+                    .mbl-logo{ display: block; }
+                    .dsk-logo{ display: none;}
+                    .a{background-color: #fec926;}
+                    .navbar-dark  .navbar-nav  .nav-link{
+                        color: black;}
+                        .foot{ margin-top: 40px; }	 }     
+                        
+                        
+
+
+
+
+
+
+
+
+                        .a{
+                            background-color: #0000009c;}
+                    
+                             .nav-item {padding: 10px;
+                                        color: #fff;
+                                        text-decoration: none; 
+                                        font-weight: 600;
+                                        font-size: 15px;}
+                    
+                               .ourteam{font-family: 'prague';
+                                       font-size: 80px;
+                                       text-align: center;
+                                       position: relative;
+                                       top: 250px;
+                                       color: #000000; }              
+                    
+                               .bd{ background-image: url("https://www.firstfiddle.in/assets/images/franchise-with-us.jpg"); height: 550px;}
+                               .pri{ color: #000; }
+                              /* .na{ text-align: center;
+                                    color:#fff; 
+                                    font-size: 22px;
+                                    font-weight: 700;
+                                    position: relative;
+                                    bottom: 60px; }*/
+                    
+                                   .foot{ background-color:#111215; margin-top: 30px;}
+                                   .footer7{ margin-top: 60px; }
+                                   .last{ background-color:#000000; }  
+                    
+                                   .mbl-logo{ display: none; }
+                               
+                                       
+                                 @media(max-width: 500px) {
+                    
+                                .mbl-logo{ display: block; }
+                                .dsk-logo{ display: none;}
+                                .a{background-color: #fec926;}
+                                .navbar-dark  .navbar-nav  .nav-link{
+                                    color: black;}
+                                .priimage{ height: 300px;width: 100%; }
+                                .foot{ margin-top: 40px; }	
+                    
+                                       }
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       .a{
+                                        background-color: #0000009c;}
+                                
+                                         .nav-item {padding: 10px;
+                                                         color: #070505;
+                                                         text-decoration: none; 
+                                                         font-weight: 600;
+                                                         font-size: 15px;}
+                                       .mbl-logo{ display: none; }
+                                       .foot{ background-color:#111215; margin-top: 30px;}
+                                               .footer7{ margin-top: 60px; }
+                                               .last{ background-color:#000000; }
+                                
+                                
+                                
+                                
+                                
+                                
+                                        @media(max-width: 500px) {
+                                
+                                            .mbl-logo{ display: block; }
+                                            .dsk-logo{ display: none;}
+                                            .a{background-color: #fec926;}
+                                            .navbar-dark  .navbar-nav  .nav-link{color: black;}
+                                            .foot{ margin-top: 40px; }
+                                            
+                                          
+                                            }
+                                        
+                                
+                
